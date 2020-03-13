@@ -1,0 +1,46 @@
+17
+27
+1	Los Angeles
+2	Santa Barbara
+3	San Luis Obispo
+4	Bakersfield
+5	Fresno
+6	Modesto
+7	Sacramento
+8	Oakland
+9	San Francisco
+10	San Jose
+11	Salinas
+12	Monterey
+13	Morro Bay
+14	Paso Robles
+15	Kettleman City
+16	Stockton
+17	Vallejo
+1	2	95
+2	3	92
+3	4	147
+4	1	112
+2	4	144
+3	13	14
+3	14	31
+13	14	30
+13	12	123
+14	11	99
+12	11	19
+11	10	60
+10	8	40
+10	9	48
+9	8	12
+8	6	80
+6	5	95
+5	4	110
+14	15	53
+15	5	56
+15	16	165
+16	7	49
+16	6	32
+16	8	72
+17	8	26
+17	7	58
+17	16	66
